@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Joshin",
+        "department": "ECE",
+        "age": 20,
+        "salary": 70000
+    },
+    {
+        "id": 2,
+        "name": "Madhan",
+        "department": "CSE",
+        "age": 21,
+        "salary": 55000
+    },
+    {
+        "id": 3,
+        "name": "Kanna",
+        "department": "CSE",
+        "age": 21,
+        "salary": 60000
+    },
+    {
+        "id": 4,
+        "name": "Jegan",
+        "department": "EEE",
+        "age": 21,
+        "salary": 65000
+    },
+    {
+        "id": 5,
+        "name": "Babu",
+        "department": "ECE",
+        "age": 21,
+        "salary": 75000
+    }
+]
